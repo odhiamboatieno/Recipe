@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app main color-->
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#AD1457</color>
+    <color name="colorAccent">#f94d87</color>
+    <color name="colorBackgroundLight">#FFFFFF</color>
+
+    <!--dark theme color-->
+    <color name="colorStatusBarDark">#0F1D24</color>
+    <color name="colorToolbarDark">#222D36</color>
+    <color name="colorBackgroundDark">#101D24</color>
+
+    <!--others-->
+    <color name="colorOverlaySoft">#1A000000</color>
+    <color name="colorOverlayDark">#33000000</color>
+    <color name="colorShimmer">#BCBEC1</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorRipple">#C2C2C2</color>
+
+    <!--do not change this-->
+    <color name="gnt_test_background_color">#00F4F4F4</color>
+    <color name="gnt_white">#FFFFFF</color>
+    <color name="gnt_ad_green">#3A6728</color>
+    <color name="gnt_gray">#808080</color>
+    <color name="sub_text_color">#b8bcbe</color>
+
+</resources>
